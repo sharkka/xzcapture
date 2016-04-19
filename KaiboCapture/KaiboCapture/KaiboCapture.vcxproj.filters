@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="jsoncpp">
+      <UniqueIdentifier>{bc2b5d4a-02f5-46be-b562-34ea11961469}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsoncpp\include">
+      <UniqueIdentifier>{6e624949-b9b8-4521-8847-9e8775bbf47c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsoncpp\src">
+      <UniqueIdentifier>{54b946fa-cd98-44a7-98c5-3ab64d79fef6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsoncpp\include\json">
+      <UniqueIdentifier>{9fe3e3ff-454d-45e8-8730-0aa58237d4ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jsoncpp\src\json">
+      <UniqueIdentifier>{80ff265a-725a-4075-a3df-bc986c7592b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KaiboCapture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KaiboCaptureDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\ComHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\Exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\Thread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\TString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\Win32_Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\ID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Comm\IniConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\autolink.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\config.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\features.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\forwards.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\json.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\reader.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\value.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\include\json\writer.h">
+      <Filter>jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\json\json_batchallocator.h">
+      <Filter>jsoncpp\src\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\jsoncpp\json\json_tool.h">
+      <Filter>jsoncpp\src\json</Filter>
+    </ClInclude>
+    <ClInclude Include="PreviewDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XzConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TabdlgInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TabdlgDevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TabdlgAbout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioVolume.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KaiboCapture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KaiboCaptureDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\Exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\Thread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\TString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\Win32_Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\ID.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Comm\IniConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp\json\json_reader.cpp">
+      <Filter>jsoncpp\src\json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp\json\json_value.cpp">
+      <Filter>jsoncpp\src\json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp\json\json_writer.cpp">
+      <Filter>jsoncpp\src\json</Filter>
+    </ClCompile>
+    <ClCompile Include="PreviewDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XzConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabdlgInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabdlgDevice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabdlgAbout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioVolume.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KaiboCapture.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\KaiboCapture.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\jsoncpp\json\json_internalarray.inl">
+      <Filter>jsoncpp\src\json</Filter>
+    </None>
+    <None Include="..\jsoncpp\json\json_internalmap.inl">
+      <Filter>jsoncpp\src\json</Filter>
+    </None>
+    <None Include="..\jsoncpp\json\json_valueiterator.inl">
+      <Filter>jsoncpp\src\json</Filter>
+    </None>
+    <None Include="..\jsoncpp\json\sconscript">
+      <Filter>jsoncpp\src\json</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\KaiboCapture.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

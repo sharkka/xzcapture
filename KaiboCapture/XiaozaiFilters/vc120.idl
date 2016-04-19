@@ -1,0 +1,11 @@
+import "docobj.idl";
+
+
+[ version(1.0), helpstring("XiaozaiPushFilter 1.0 Type Library"), uuid(e71471e9-8b39-3dbe-8096-8c637a6772c4) ]
+library XiaozaiPushFilter
+{
+	importlib("stdole2.tlb");
+	importlib("olepro32.dll");
+
+}
+

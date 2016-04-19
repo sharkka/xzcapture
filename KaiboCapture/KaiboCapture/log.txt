@@ -1,0 +1,1080 @@
+dshow passing through packet of type video size   614400 timestamp 75017030000 orig timestamp 74991313637 graph timestamp 75017030000 diff 25716363 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75017030000 orig timestamp 74991953425 graph timestamp 75017030000 diff 25076575 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75017040000 orig timestamp 74992593071 graph timestamp 75017040000 diff 24446929 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75017040000 orig timestamp 74993232895 graph timestamp 75017040000 diff 23807105 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75017040000 orig timestamp 74993713445 graph timestamp 75017040000 diff 23326555 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75017720000 orig timestamp 75017724178 graph timestamp 75017720000 diff -4178 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75018360000 orig timestamp 75018364609 graph timestamp 75018360000 diff -4609 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75019000000 orig timestamp 75019003661 graph timestamp 75019000000 diff -3661 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75019480000 orig timestamp 75019483903 graph timestamp 75019480000 diff -3903 HD WebCam
+using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+profile High, level 3.0
+264 - core 148 r2638 7599210 - H.264/MPEG-4 AVC codec - Copyleft 2003-2015 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=90 keyint_min=9 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=abr mbtree=1 bitrate=1000 ratetol=1.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+dshow passing through packet of type video size   614400 timestamp 75020120000 orig timestamp 75020123964 graph timestamp 75020120000 diff -3964 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75020760000 orig timestamp 75020763190 graph timestamp 75020760000 diff -3190 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75021400000 orig timestamp 75021403019 graph timestamp 75021400000 diff -3019 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 74988710000 orig timestamp 74988710000 graph timestamp 75021640000 diff 32930000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75021880000 orig timestamp 75021883556 graph timestamp 75021880000 diff -3556 HD WebCam
+Parsing...
+Parsed protocol: 0
+Parsed host    : livexz.xiaozaiwh.com
+Parsed app     : live
+dshow passing through packet of type video size   614400 timestamp 75022520000 orig timestamp 75022523286 graph timestamp 75022520000 diff -3286 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75023160000 orig timestamp 75023163445 graph timestamp 75023160000 diff -3445 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75023800000 orig timestamp 75023803836 graph timestamp 75023800000 diff -3836 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75024280000 orig timestamp 75024283739 graph timestamp 75024280000 diff -3739 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75024930000 orig timestamp 75024924166 graph timestamp 75024930000 diff 5834 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75025560000 orig timestamp 75025563968 graph timestamp 75025560000 diff -3968 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75026040000 orig timestamp 75026043768 graph timestamp 75026040000 diff -3768 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75021640000 orig timestamp 75021640000 graph timestamp 75026650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75026690000 orig timestamp 75026684989 graph timestamp 75026690000 diff 5011 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75027320000 orig timestamp 75027328072 graph timestamp 75027320000 diff -8072 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75027970000 orig timestamp 75027967852 graph timestamp 75027970000 diff 2148 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75028440000 orig timestamp 75028448585 graph timestamp 75028440000 diff -8585 HD WebCam
+RTMP_Connect1, ... connected, handshaking
+dshow passing through packet of type video size   614400 timestamp 75029080000 orig timestamp 75029089596 graph timestamp 75029080000 diff -9596 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75029720000 orig timestamp 75029728952 graph timestamp 75029720000 diff -8952 HD WebCam
+HandShake: Type Answer   : 03
+HandShake: Server Uptime : 1460986993
+HandShake: FMS Version   : 0.114.124.30
+HandShake: Handshaking finished....
+RTMP_Connect1, handshaked
+Invoking connect
+dshow passing through packet of type video size   614400 timestamp 75030360000 orig timestamp 75030369120 graph timestamp 75030360000 diff -9120 HD WebCam
+HandleServerBW: server BW = 2500000
+dshow passing through packet of type video size   614400 timestamp 75030840000 orig timestamp 75030849928 graph timestamp 75030840000 diff -9928 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75031480000 orig timestamp 75031488865 graph timestamp 75031480000 diff -8865 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75026650000 orig timestamp 75026650000 graph timestamp 75031650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+HandleClientBW: client BW = 2500000 2
+HandleChangeChunkSize, received: chunk size change to 60000
+RTMP_ClientPacket, received: invoke 667 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	_result>
+Property: <Name:           no-name., NUMBER:	1.00>
+Property: <Name:           no-name., OBJECT>
+(object begin)
+Property: <Name:             fmsVer, STRING:	FMS/3,5,3,888>
+Property: <Name:       capabilities, NUMBER:	127.00>
+Property: <Name:               mode, NUMBER:	1.00>
+(object end)
+Property: <Name:           no-name., OBJECT>
+(object begin)
+Property: <Name:              level, STRING:	status>
+Property: <Name:               code, STRING:	NetConnection.Connect.Success>
+Property: <Name:        description, STRING:	Connection succeeded>
+Property: <Name:     objectEncoding, NUMBER:	0.00>
+Property: <Name:               data, ECMA_ARRAY>
+(object begin)
+Property: <Name:            version, STRING:	3,5,3,888>
+Property: <Name:            srs_sig, STRING:	SRS>
+Property: <Name:         srs_server, STRING:	SRS/2.0.200(ZhouGuowen)>
+Property: <Name:        srs_license, STRING:	The MIT License (MIT)>
+Property: <Name:           srs_role, STRING:	origin/edge server>
+Property: <Name:            srs_url, STRING:	https://github.com/ossrs/srs>
+Property: <Name:        srs_version, STRING:	2.0.200>
+Property: <Name:           srs_site, STRING:	http://ossrs.net>
+Property: <Name:          srs_email, STRING:	winlin@vip.126.com>
+Property: <Name:      srs_copyright, STRING:	Copyright (c) 2013-2015 SRS(ossrs)>
+Property: <Name:        srs_primary, STRING:	SRS/1.0release>
+Property: <Name:        srs_authors, STRING:	winlin,wenjie.zhao>
+Property: <Name:      srs_server_ip, STRING:	123.56.154.232>
+Property: <Name:            srs_pid, NUMBER:	1246.00>
+Property: <Name:             srs_id, NUMBER:	6740.00>
+(object end)
+(object end)
+(object end)
+HandleInvoke, server invoking <_result>
+HandleInvoke, received result for method call <connect>
+Invoking releaseStream
+Invoking FCPublish
+Invoking createStream
+RTMP_ClientPacket, received: invoke 21 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	onBWDone>
+Property: <Name:           no-name., NUMBER:	0.00>
+Property: NULL
+(object end)
+HandleInvoke, server invoking <onBWDone>
+Invoking _checkbw
+dshow passing through packet of type video size   614400 timestamp 75032120000 orig timestamp 75032129086 graph timestamp 75032120000 diff -9086 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75032760000 orig timestamp 75032768063 graph timestamp 75032760000 diff -8063 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75033240000 orig timestamp 75033248434 graph timestamp 75033240000 diff -8434 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75033880000 orig timestamp 75033888223 graph timestamp 75033880000 diff -8223 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75034520000 orig timestamp 75034528341 graph timestamp 75034520000 diff -8341 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75035160000 orig timestamp 75035168393 graph timestamp 75035160000 diff -8393 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75035650000 orig timestamp 75035649693 graph timestamp 75035650000 diff 307 HD WebCam
+RTMP_ClientPacket, received: invoke 21 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	_result>
+Property: <Name:           no-name., NUMBER:	2.00>
+Property: NULL
+Property: NULL
+(object end)
+HandleInvoke, server invoking <_result>
+HandleInvoke, received result id 2.000000 without matching request
+dshow passing through packet of type video size   614400 timestamp 75036280000 orig timestamp 75036288995 graph timestamp 75036280000 diff -8995 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75031650000 orig timestamp 75031650000 graph timestamp 75036650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75036920000 orig timestamp 75036928775 graph timestamp 75036920000 diff -8775 HD WebCam
+RTMP_ClientPacket, received: invoke 21 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	_result>
+Property: <Name:           no-name., NUMBER:	3.00>
+Property: NULL
+Property: NULL
+(object end)
+HandleInvoke, server invoking <_result>
+HandleInvoke, received result id 3.000000 without matching request
+RTMP_ClientPacket, received: invoke 29 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	_result>
+Property: <Name:           no-name., NUMBER:	4.00>
+Property: NULL
+Property: <Name:           no-name., NUMBER:	1.00>
+(object end)
+HandleInvoke, server invoking <_result>
+HandleInvoke, received result for method call <createStream>
+Invoking publish
+dshow passing through packet of type video size   614400 timestamp 75037560000 orig timestamp 75037564564 graph timestamp 75037560000 diff -4564 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75038050000 orig timestamp 75038045226 graph timestamp 75038050000 diff 4774 HD WebCam
+RTMP_ClientPacket, received: invoke 102 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	onFCPublish>
+Property: <Name:           no-name., NUMBER:	0.00>
+Property: NULL
+Property: <Name:           no-name., OBJECT>
+(object begin)
+Property: <Name:               code, STRING:	NetStream.Publish.Start>
+Property: <Name:        description, STRING:	Started publishing stream.>
+(object end)
+(object end)
+HandleInvoke, server invoking <onFCPublish>
+dshow passing through packet of type video size   614400 timestamp 75038680000 orig timestamp 75038684372 graph timestamp 75038680000 diff -4372 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75039320000 orig timestamp 75039323946 graph timestamp 75039320000 diff -3946 HD WebCam
+RTMP_ClientPacket, received: invoke 136 bytes
+(object begin)
+Property: <Name:           no-name., STRING:	onStatus>
+Property: <Name:           no-name., NUMBER:	0.00>
+Property: NULL
+Property: <Name:           no-name., OBJECT>
+(object begin)
+Property: <Name:              level, STRING:	status>
+Property: <Name:               code, STRING:	NetStream.Publish.Start>
+Property: <Name:        description, STRING:	Started publishing stream.>
+Property: <Name:           clientid, STRING:	ASAICiss>
+(object end)
+(object end)
+HandleInvoke, server invoking <onStatus>
+HandleInvoke, onStatus: NetStream.Publish.Start
+w:640 h:480 pixfmt:yuv420p tb:333333/10000000 fr:0/1 sar:1/1 sws_param:
+seek_point:0 format_name:(null) file_name:TMark.png stream_index:-1
+w:iw h:ih flags:'bilinear' interl:0
+auto-inserting filter 'auto-inserted scaler 0' between the filter 'Parsed_movie_0' and the filter 'Parsed_overlay_1'
+w:66 h:77 fmt:rgba sar:1/1 -> w:66 h:77 fmt:yuva420p sar:1/1 flags:0x2
+main w:640 h:480 fmt:yuv420p overlay w:66 h:77 fmt:yuva420p eof_action:repeat
+Selected 1/1000000 time base
+Sync level 2
+track 1: codec frame size is not set
+dshow passing through packet of type video size   614400 timestamp 75039970000 orig timestamp 75039963730 graph timestamp 75039970000 diff 6270 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75040450000 orig timestamp 75040447408 graph timestamp 75040450000 diff 2592 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75041080000 orig timestamp 75041083788 graph timestamp 75041080000 diff -3788 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75036640000 orig timestamp 75036640000 graph timestamp 75041650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75041730000 orig timestamp 75041724344 graph timestamp 75041730000 diff 5656 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75042360000 orig timestamp 75042363972 graph timestamp 75042360000 diff -3972 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75042840000 orig timestamp 75042845329 graph timestamp 75042840000 diff -5329 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75043480000 orig timestamp 75043484944 graph timestamp 75043480000 diff -4944 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75044120000 orig timestamp 75044123452 graph timestamp 75044120000 diff -3452 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75044760000 orig timestamp 75044763227 graph timestamp 75044760000 diff -3227 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75045240000 orig timestamp 75045243710 graph timestamp 75045240000 diff -3710 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75045880000 orig timestamp 75045883811 graph timestamp 75045880000 diff -3811 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75046520000 orig timestamp 75046524519 graph timestamp 75046520000 diff -4519 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75041650000 orig timestamp 75041650000 graph timestamp 75046650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75047000000 orig timestamp 75047005296 graph timestamp 75047000000 diff -5296 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75047640000 orig timestamp 75047642079 graph timestamp 75047640000 diff -2079 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75048280000 orig timestamp 75048281988 graph timestamp 75048280000 diff -1988 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75048920000 orig timestamp 75048921094 graph timestamp 75048920000 diff -1094 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75049400000 orig timestamp 75049402773 graph timestamp 75049400000 diff -2773 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75050040000 orig timestamp 75050042254 graph timestamp 75050040000 diff -2254 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75050680000 orig timestamp 75050681435 graph timestamp 75050680000 diff -1435 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75051320000 orig timestamp 75051321706 graph timestamp 75051320000 diff -1706 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75046650000 orig timestamp 75046650000 graph timestamp 75051650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75051800000 orig timestamp 75051802037 graph timestamp 75051800000 diff -2037 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75052440000 orig timestamp 75052442187 graph timestamp 75052440000 diff -2187 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75053090000 orig timestamp 75053081454 graph timestamp 75053090000 diff 8546 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75053720000 orig timestamp 75053721149 graph timestamp 75053720000 diff -1149 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75054200000 orig timestamp 75054201864 graph timestamp 75054200000 diff -1864 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75054840000 orig timestamp 75054841920 graph timestamp 75054840000 diff -1920 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75055480000 orig timestamp 75055480785 graph timestamp 75055480000 diff -785 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75056120000 orig timestamp 75056121082 graph timestamp 75056120000 diff -1082 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75056600000 orig timestamp 75056601512 graph timestamp 75056600000 diff -1512 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75051650000 orig timestamp 75051650000 graph timestamp 75056640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75057240000 orig timestamp 75057248212 graph timestamp 75057240000 diff -8212 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75057880000 orig timestamp 75057888322 graph timestamp 75057880000 diff -8322 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75058520000 orig timestamp 75058528249 graph timestamp 75058520000 diff -8249 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75059000000 orig timestamp 75059008959 graph timestamp 75059000000 diff -8959 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75059640000 orig timestamp 75059648971 graph timestamp 75059640000 diff -8971 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75060280000 orig timestamp 75060288880 graph timestamp 75060280000 diff -8880 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75060920000 orig timestamp 75060928571 graph timestamp 75060920000 diff -8571 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75061410000 orig timestamp 75061409767 graph timestamp 75061410000 diff 233 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75056640000 orig timestamp 75056640000 graph timestamp 75061650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75062050000 orig timestamp 75062048146 graph timestamp 75062050000 diff 1854 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75062680000 orig timestamp 75062688220 graph timestamp 75062680000 diff -8220 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75063320000 orig timestamp 75063327906 graph timestamp 75063320000 diff -7906 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75063810000 orig timestamp 75063809108 graph timestamp 75063810000 diff 892 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75064440000 orig timestamp 75064448062 graph timestamp 75064440000 diff -8062 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75065090000 orig timestamp 75065087712 graph timestamp 75065090000 diff 2288 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75065720000 orig timestamp 75065728451 graph timestamp 75065720000 diff -8451 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75066200000 orig timestamp 75066208631 graph timestamp 75066200000 diff -8631 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75061650000 orig timestamp 75061650000 graph timestamp 75066650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75066840000 orig timestamp 75066848705 graph timestamp 75066840000 diff -8705 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75067480000 orig timestamp 75067487757 graph timestamp 75067480000 diff -7757 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75068120000 orig timestamp 75068127470 graph timestamp 75068120000 diff -7470 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75068600000 orig timestamp 75068608283 graph timestamp 75068600000 diff -8283 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75069250000 orig timestamp 75069248679 graph timestamp 75069250000 diff 1321 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75069880000 orig timestamp 75069887780 graph timestamp 75069880000 diff -7780 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75070360000 orig timestamp 75070368857 graph timestamp 75070360000 diff -8857 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (64% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75071000000 orig timestamp 75071008346 graph timestamp 75071000000 diff -8346 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75071640000 orig timestamp 75071648519 graph timestamp 75071640000 diff -8519 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75066650000 orig timestamp 75066650000 graph timestamp 75071650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75072280000 orig timestamp 75072287558 graph timestamp 75072280000 diff -7558 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (66% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75072760000 orig timestamp 75072769085 graph timestamp 75072760000 diff -9085 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75073400000 orig timestamp 75073408565 graph timestamp 75073400000 diff -8565 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75074040000 orig timestamp 75074048167 graph timestamp 75074040000 diff -8167 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75074680000 orig timestamp 75074687888 graph timestamp 75074680000 diff -7888 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (68% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75075160000 orig timestamp 75075169210 graph timestamp 75075160000 diff -9210 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75075800000 orig timestamp 75075808861 graph timestamp 75075800000 diff -8861 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75076450000 orig timestamp 75076448404 graph timestamp 75076450000 diff 1596 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75071650000 orig timestamp 75071650000 graph timestamp 75076650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75077080000 orig timestamp 75077088201 graph timestamp 75077080000 diff -8201 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75077560000 orig timestamp 75077563490 graph timestamp 75077560000 diff -3490 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75078200000 orig timestamp 75078202524 graph timestamp 75078200000 diff -2524 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75078840000 orig timestamp 75078842710 graph timestamp 75078840000 diff -2710 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (72% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75079480000 orig timestamp 75079481829 graph timestamp 75079480000 diff -1829 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75079960000 orig timestamp 75079963147 graph timestamp 75079960000 diff -3147 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75080610000 orig timestamp 75080602462 graph timestamp 75080610000 diff 7538 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75081250000 orig timestamp 75081242724 graph timestamp 75081250000 diff 7276 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (75% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75076650000 orig timestamp 75076650000 graph timestamp 75081640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75081880000 orig timestamp 75081882272 graph timestamp 75081880000 diff -2272 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75082360000 orig timestamp 75082363402 graph timestamp 75082360000 diff -3402 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75083000000 orig timestamp 75083002525 graph timestamp 75083000000 diff -2525 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (76% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75083650000 orig timestamp 75083642541 graph timestamp 75083650000 diff 7459 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (76% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75084280000 orig timestamp 75084281915 graph timestamp 75084280000 diff -1915 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75084760000 orig timestamp 75084763032 graph timestamp 75084760000 diff -3032 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75085410000 orig timestamp 75085402539 graph timestamp 75085410000 diff 7461 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (78% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75086040000 orig timestamp 75086042306 graph timestamp 75086040000 diff -2306 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (78% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75081640000 orig timestamp 75081640000 graph timestamp 75086660000 diff 5020000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75086690000 orig timestamp 75086681911 graph timestamp 75086690000 diff 8089 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75087170000 orig timestamp 75087163456 graph timestamp 75087170000 diff 6544 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (79% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75087810000 orig timestamp 75087808421 graph timestamp 75087810000 diff 1579 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (79% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75088440000 orig timestamp 75088447219 graph timestamp 75088440000 diff -7219 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75089080000 orig timestamp 75089086923 graph timestamp 75089080000 diff -6923 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75089570000 orig timestamp 75089568263 graph timestamp 75089570000 diff 1737 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (80% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75090210000 orig timestamp 75090207922 graph timestamp 75090210000 diff 2078 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (80% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75090850000 orig timestamp 75090847394 graph timestamp 75090850000 diff 2606 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75091320000 orig timestamp 75091328225 graph timestamp 75091320000 diff -8225 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75086660000 orig timestamp 75086660000 graph timestamp 75091650000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75091970000 orig timestamp 75091968313 graph timestamp 75091970000 diff 1687 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (82% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75092610000 orig timestamp 75092607615 graph timestamp 75092610000 diff 2385 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75093250000 orig timestamp 75093247229 graph timestamp 75093250000 diff 2771 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75093730000 orig timestamp 75093728252 graph timestamp 75093730000 diff 1748 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (83% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75094370000 orig timestamp 75094368157 graph timestamp 75094370000 diff 1843 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (83% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75095000000 orig timestamp 75095007049 graph timestamp 75095000000 diff -7049 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75095640000 orig timestamp 75095646993 graph timestamp 75095640000 diff -6993 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75096120000 orig timestamp 75096128159 graph timestamp 75096120000 diff -8159 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (85% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75091650000 orig timestamp 75091650000 graph timestamp 75096660000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75096760000 orig timestamp 75096767524 graph timestamp 75096760000 diff -7524 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75097400000 orig timestamp 75097409356 graph timestamp 75097400000 diff -9356 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75098050000 orig timestamp 75098049185 graph timestamp 75098050000 diff 815 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (86% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75098520000 orig timestamp 75098530074 graph timestamp 75098520000 diff -10074 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (86% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75099160000 orig timestamp 75099169662 graph timestamp 75099160000 diff -9662 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75099800000 orig timestamp 75099809446 graph timestamp 75099800000 diff -9446 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75100440000 orig timestamp 75100449136 graph timestamp 75100440000 diff -9136 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75100930000 orig timestamp 75100929994 graph timestamp 75100930000 diff 6 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75101560000 orig timestamp 75101569832 graph timestamp 75101560000 diff -9832 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75096660000 orig timestamp 75096660000 graph timestamp 75101640000 diff 4980000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75102200000 orig timestamp 75102209553 graph timestamp 75102200000 diff -9553 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75102840000 orig timestamp 75102848994 graph timestamp 75102840000 diff -8994 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75103320000 orig timestamp 75103329847 graph timestamp 75103320000 diff -9847 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (88% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75103960000 orig timestamp 75103969596 graph timestamp 75103960000 diff -9596 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75104600000 orig timestamp 75104609420 graph timestamp 75104600000 diff -9420 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (89% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75105250000 orig timestamp 75105248914 graph timestamp 75105250000 diff 1086 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (89% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75105720000 orig timestamp 75105730053 graph timestamp 75105720000 diff -10053 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (89% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75106360000 orig timestamp 75106370132 graph timestamp 75106360000 diff -10132 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75101640000 orig timestamp 75101640000 graph timestamp 75106660000 diff 5020000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75107000000 orig timestamp 75107009019 graph timestamp 75107000000 diff -9019 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (89% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75107640000 orig timestamp 75107642462 graph timestamp 75107640000 diff -2462 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (89% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75108130000 orig timestamp 75108123328 graph timestamp 75108130000 diff 6672 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75108770000 orig timestamp 75108763126 graph timestamp 75108770000 diff 6874 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (90% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75109400000 orig timestamp 75109402620 graph timestamp 75109400000 diff -2620 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (90% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75110040000 orig timestamp 75110042293 graph timestamp 75110040000 diff -2293 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (90% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75110530000 orig timestamp 75110523003 graph timestamp 75110530000 diff 6997 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75111170000 orig timestamp 75111162894 graph timestamp 75111170000 diff 7106 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (91% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75106660000 orig timestamp 75106660000 graph timestamp 75111650000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75111800000 orig timestamp 75111802576 graph timestamp 75111800000 diff -2576 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (91% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75112280000 orig timestamp 75112284045 graph timestamp 75112280000 diff -4045 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75112930000 orig timestamp 75112923338 graph timestamp 75112930000 diff 6662 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75113560000 orig timestamp 75113562989 graph timestamp 75113560000 diff -2989 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75114200000 orig timestamp 75114201894 graph timestamp 75114200000 diff -1894 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75114680000 orig timestamp 75114682087 graph timestamp 75114680000 diff -2087 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75115320000 orig timestamp 75115321915 graph timestamp 75115320000 diff -1915 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75115960000 orig timestamp 75115962119 graph timestamp 75115960000 diff -2119 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75116600000 orig timestamp 75116601604 graph timestamp 75116600000 diff -1604 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75111650000 orig timestamp 75111650000 graph timestamp 75116640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75117080000 orig timestamp 75117082774 graph timestamp 75117080000 diff -2774 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75117730000 orig timestamp 75117723424 graph timestamp 75117730000 diff 6576 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75118370000 orig timestamp 75118363311 graph timestamp 75118370000 diff 6689 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (92% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75119000000 orig timestamp 75119002899 graph timestamp 75119000000 diff -2899 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75119480000 orig timestamp 75119482802 graph timestamp 75119480000 diff -2802 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (93% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75120120000 orig timestamp 75120122189 graph timestamp 75120120000 diff -2189 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (93% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75120760000 orig timestamp 75120762075 graph timestamp 75120760000 diff -2075 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (93% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75121400000 orig timestamp 75121402114 graph timestamp 75121400000 diff -2114 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75116640000 orig timestamp 75116640000 graph timestamp 75121640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75121890000 orig timestamp 75121882530 graph timestamp 75121890000 diff 7470 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (94% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75122520000 orig timestamp 75122522149 graph timestamp 75122520000 diff -2149 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (94% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75123160000 orig timestamp 75123161924 graph timestamp 75123160000 diff -1924 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75123810000 orig timestamp 75123802579 graph timestamp 75123810000 diff 7421 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (95% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75124280000 orig timestamp 75124282517 graph timestamp 75124280000 diff -2517 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (95% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75124920000 orig timestamp 75124922149 graph timestamp 75124920000 diff -2149 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (95% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75125560000 orig timestamp 75125562697 graph timestamp 75125560000 diff -2697 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75126200000 orig timestamp 75126201910 graph timestamp 75126200000 diff -1910 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (96% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75121640000 orig timestamp 75121640000 graph timestamp 75126640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75126680000 orig timestamp 75126682219 graph timestamp 75126680000 diff -2219 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (96% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75127330000 orig timestamp 75127320570 graph timestamp 75127330000 diff 9430 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75127970000 orig timestamp 75127960568 graph timestamp 75127970000 diff 9432 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (96% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75128600000 orig timestamp 75128600080 graph timestamp 75128600000 diff -80 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (96% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75129090000 orig timestamp 75129082638 graph timestamp 75129090000 diff 7362 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (96% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75129730000 orig timestamp 75129722172 graph timestamp 75129730000 diff 7828 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75130360000 orig timestamp 75130361287 graph timestamp 75130360000 diff -1287 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75131010000 orig timestamp 75131001634 graph timestamp 75131010000 diff 8366 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75131490000 orig timestamp 75131482590 graph timestamp 75131490000 diff 7410 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75126640000 orig timestamp 75126640000 graph timestamp 75131650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75132120000 orig timestamp 75132121713 graph timestamp 75132120000 diff -1713 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75132760000 orig timestamp 75132761431 graph timestamp 75132760000 diff -1431 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75133250000 orig timestamp 75133242623 graph timestamp 75133250000 diff 7377 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (97% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75133890000 orig timestamp 75133882528 graph timestamp 75133890000 diff 7472 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75134530000 orig timestamp 75134522084 graph timestamp 75134530000 diff 7916 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (98% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75135160000 orig timestamp 75135161409 graph timestamp 75135160000 diff -1409 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (98% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75135650000 orig timestamp 75135642512 graph timestamp 75135650000 diff 7488 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (98% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75136280000 orig timestamp 75136282377 graph timestamp 75136280000 diff -2377 HD WebCam
+dshow passing through packet of type audio size    88200 timestamp 75131650000 orig timestamp 75131650000 graph timestamp 75136650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75136920000 orig timestamp 75136920661 graph timestamp 75136920000 diff -661 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (99% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75137560000 orig timestamp 75137567929 graph timestamp 75137560000 diff -7929 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (99% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75138040000 orig timestamp 75138048376 graph timestamp 75138040000 diff -8376 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75138680000 orig timestamp 75138688245 graph timestamp 75138680000 diff -8245 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (99% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75139330000 orig timestamp 75139328244 graph timestamp 75139330000 diff 1756 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (99% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75139960000 orig timestamp 75139968099 graph timestamp 75139960000 diff -8099 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (99% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75140440000 orig timestamp 75140448636 graph timestamp 75140440000 diff -8636 HD WebCam
+dshow passing through packet of type video size   614400 timestamp 75141080000 orig timestamp 75141088085 graph timestamp 75141080000 diff -8085 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75136650000 orig timestamp 75136650000 graph timestamp 75141650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75141720000 orig timestamp 75141728182 graph timestamp 75141720000 diff -8182 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75142370000 orig timestamp 75142367894 graph timestamp 75142370000 diff 2106 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75142840000 orig timestamp 75142848208 graph timestamp 75142840000 diff -8208 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75143490000 orig timestamp 75143488376 graph timestamp 75143490000 diff 1624 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75144120000 orig timestamp 75144128539 graph timestamp 75144120000 diff -8539 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75144760000 orig timestamp 75144768341 graph timestamp 75144760000 diff -8341 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75145240000 orig timestamp 75145248396 graph timestamp 75145240000 diff -8396 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75145880000 orig timestamp 75145888055 graph timestamp 75145880000 diff -8055 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75146530000 orig timestamp 75146528004 graph timestamp 75146530000 diff 1996 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75141650000 orig timestamp 75141650000 graph timestamp 75146650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75147160000 orig timestamp 75147168569 graph timestamp 75147160000 diff -8569 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75147640000 orig timestamp 75147650159 graph timestamp 75147640000 diff -10159 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75148290000 orig timestamp 75148289818 graph timestamp 75148290000 diff 182 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75148920000 orig timestamp 75148929357 graph timestamp 75148920000 diff -9357 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75149570000 orig timestamp 75149569471 graph timestamp 75149570000 diff 529 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75150040000 orig timestamp 75150050811 graph timestamp 75150040000 diff -10811 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75150680000 orig timestamp 75150690060 graph timestamp 75150680000 diff -10060 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75151320000 orig timestamp 75151329705 graph timestamp 75151320000 diff -9705 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75146650000 orig timestamp 75146650000 graph timestamp 75151650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75151970000 orig timestamp 75151968392 graph timestamp 75151970000 diff 1608 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75152440000 orig timestamp 75152448732 graph timestamp 75152440000 diff -8732 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75153080000 orig timestamp 75153089007 graph timestamp 75153080000 diff -9007 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75153720000 orig timestamp 75153729634 graph timestamp 75153720000 diff -9634 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75154360000 orig timestamp 75154368522 graph timestamp 75154360000 diff -8522 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75154840000 orig timestamp 75154848643 graph timestamp 75154840000 diff -8643 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75155480000 orig timestamp 75155488231 graph timestamp 75155480000 diff -8231 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75156120000 orig timestamp 75156128145 graph timestamp 75156120000 diff -8145 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75156600000 orig timestamp 75156609850 graph timestamp 75156600000 diff -9850 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75151650000 orig timestamp 75151650000 graph timestamp 75156640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75157240000 orig timestamp 75157250005 graph timestamp 75157240000 diff -10005 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75157880000 orig timestamp 75157882515 graph timestamp 75157880000 diff -2515 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75158530000 orig timestamp 75158522844 graph timestamp 75158530000 diff 7156 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75159010000 orig timestamp 75159003849 graph timestamp 75159010000 diff 6151 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75159640000 orig timestamp 75159643209 graph timestamp 75159640000 diff -3209 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75160290000 orig timestamp 75160282703 graph timestamp 75160290000 diff 7297 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75160920000 orig timestamp 75160922157 graph timestamp 75160920000 diff -2157 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75161410000 orig timestamp 75161404162 graph timestamp 75161410000 diff 5838 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75156640000 orig timestamp 75156640000 graph timestamp 75161640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75162050000 orig timestamp 75162043357 graph timestamp 75162050000 diff 6643 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75162680000 orig timestamp 75162683110 graph timestamp 75162680000 diff -3110 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75163320000 orig timestamp 75163322688 graph timestamp 75163320000 diff -2688 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75163800000 orig timestamp 75163803221 graph timestamp 75163800000 diff -3221 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75164450000 orig timestamp 75164443130 graph timestamp 75164450000 diff 6870 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75165080000 orig timestamp 75165082410 graph timestamp 75165080000 diff -2410 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75165720000 orig timestamp 75165722720 graph timestamp 75165720000 diff -2720 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75166200000 orig timestamp 75166202311 graph timestamp 75166200000 diff -2311 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75161640000 orig timestamp 75161640000 graph timestamp 75166640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75166840000 orig timestamp 75166841537 graph timestamp 75166840000 diff -1537 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75167480000 orig timestamp 75167482887 graph timestamp 75167480000 diff -2887 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75168120000 orig timestamp 75168122689 graph timestamp 75168120000 diff -2689 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75168600000 orig timestamp 75168604341 graph timestamp 75168600000 diff -4341 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75169240000 orig timestamp 75169243094 graph timestamp 75169240000 diff -3094 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75169880000 orig timestamp 75169883347 graph timestamp 75169880000 diff -3347 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75170520000 orig timestamp 75170522863 graph timestamp 75170520000 diff -2863 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75171010000 orig timestamp 75171003824 graph timestamp 75171010000 diff 6176 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75166640000 orig timestamp 75166640000 graph timestamp 75171640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75171640000 orig timestamp 75171642863 graph timestamp 75171640000 diff -2863 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75172280000 orig timestamp 75172283379 graph timestamp 75172280000 diff -3379 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75172920000 orig timestamp 75172922560 graph timestamp 75172920000 diff -2560 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75173400000 orig timestamp 75173402820 graph timestamp 75173400000 diff -2820 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75174040000 orig timestamp 75174042792 graph timestamp 75174040000 diff -2792 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75174680000 orig timestamp 75174682893 graph timestamp 75174680000 diff -2893 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75175320000 orig timestamp 75175322548 graph timestamp 75175320000 diff -2548 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75175800000 orig timestamp 75175803026 graph timestamp 75175800000 diff -3026 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75176440000 orig timestamp 75176442913 graph timestamp 75176440000 diff -2913 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75171640000 orig timestamp 75171640000 graph timestamp 75176640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75177090000 orig timestamp 75177082684 graph timestamp 75177090000 diff 7316 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75177560000 orig timestamp 75177564795 graph timestamp 75177560000 diff -4795 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75178200000 orig timestamp 75178205267 graph timestamp 75178200000 diff -5267 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75178850000 orig timestamp 75178844578 graph timestamp 75178850000 diff 5422 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75179480000 orig timestamp 75179484398 graph timestamp 75179480000 diff -4398 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75179960000 orig timestamp 75179965010 graph timestamp 75179960000 diff -5010 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75180610000 orig timestamp 75180605905 graph timestamp 75180610000 diff 4095 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75181240000 orig timestamp 75181245765 graph timestamp 75181240000 diff -5765 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75176640000 orig timestamp 75176640000 graph timestamp 75181650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75181880000 orig timestamp 75181884438 graph timestamp 75181880000 diff -4438 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75182360000 orig timestamp 75182364743 graph timestamp 75182360000 diff -4743 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75183010000 orig timestamp 75183005228 graph timestamp 75183010000 diff 4772 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75183640000 orig timestamp 75183644690 graph timestamp 75183640000 diff -4690 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75184280000 orig timestamp 75184284733 graph timestamp 75184280000 diff -4733 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75184760000 orig timestamp 75184765404 graph timestamp 75184760000 diff -5404 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75185400000 orig timestamp 75185405085 graph timestamp 75185400000 diff -5085 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75186040000 orig timestamp 75186044401 graph timestamp 75186040000 diff -4401 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75181650000 orig timestamp 75181650000 graph timestamp 75186640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75186680000 orig timestamp 75186684770 graph timestamp 75186680000 diff -4770 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75187160000 orig timestamp 75187164726 graph timestamp 75187160000 diff -4726 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75187800000 orig timestamp 75187805130 graph timestamp 75187800000 diff -5130 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75188440000 orig timestamp 75188445089 graph timestamp 75188440000 diff -5089 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75189080000 orig timestamp 75189085515 graph timestamp 75189080000 diff -5515 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75189560000 orig timestamp 75189565351 graph timestamp 75189560000 diff -5351 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75190200000 orig timestamp 75190205198 graph timestamp 75190200000 diff -5198 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75190840000 orig timestamp 75190845165 graph timestamp 75190840000 diff -5165 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75191480000 orig timestamp 75191484771 graph timestamp 75191480000 diff -4771 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75186640000 orig timestamp 75186640000 graph timestamp 75191640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75191960000 orig timestamp 75191965454 graph timestamp 75191960000 diff -5454 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75192600000 orig timestamp 75192605123 graph timestamp 75192600000 diff -5123 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75193240000 orig timestamp 75193244889 graph timestamp 75193240000 diff -4889 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75193880000 orig timestamp 75193884878 graph timestamp 75193880000 diff -4878 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75194360000 orig timestamp 75194365326 graph timestamp 75194360000 diff -5326 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75195010000 orig timestamp 75195005877 graph timestamp 75195010000 diff 4123 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75195650000 orig timestamp 75195644979 graph timestamp 75195650000 diff 5021 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75196280000 orig timestamp 75196284798 graph timestamp 75196280000 diff -4798 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75191640000 orig timestamp 75191640000 graph timestamp 75196640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75196770000 orig timestamp 75196765986 graph timestamp 75196770000 diff 4014 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75197400000 orig timestamp 75197401210 graph timestamp 75197400000 diff -1210 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75198040000 orig timestamp 75198040958 graph timestamp 75198040000 diff -958 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75198520000 orig timestamp 75198522021 graph timestamp 75198520000 diff -2021 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75199170000 orig timestamp 75199162943 graph timestamp 75199170000 diff 7057 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75199810000 orig timestamp 75199803022 graph timestamp 75199810000 diff 6978 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75200440000 orig timestamp 75200440954 graph timestamp 75200440000 diff -954 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75200920000 orig timestamp 75200921245 graph timestamp 75200920000 diff -1245 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75201560000 orig timestamp 75201561105 graph timestamp 75201560000 diff -1105 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75196640000 orig timestamp 75196640000 graph timestamp 75201640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75202200000 orig timestamp 75202200889 graph timestamp 75202200000 diff -889 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75202840000 orig timestamp 75202841954 graph timestamp 75202840000 diff -1954 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75203330000 orig timestamp 75203321969 graph timestamp 75203330000 diff 8031 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75203960000 orig timestamp 75203961699 graph timestamp 75203960000 diff -1699 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75204600000 orig timestamp 75204601457 graph timestamp 75204600000 diff -1457 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75205240000 orig timestamp 75205241352 graph timestamp 75205240000 diff -1352 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75205720000 orig timestamp 75205722139 graph timestamp 75205720000 diff -2139 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75206370000 orig timestamp 75206361642 graph timestamp 75206370000 diff 8358 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75201640000 orig timestamp 75201640000 graph timestamp 75206640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75207000000 orig timestamp 75207001479 graph timestamp 75207000000 diff -1479 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75207640000 orig timestamp 75207641963 graph timestamp 75207640000 diff -1963 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75208120000 orig timestamp 75208123013 graph timestamp 75208120000 diff -3013 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75208760000 orig timestamp 75208762726 graph timestamp 75208760000 diff -2726 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75209400000 orig timestamp 75209402894 graph timestamp 75209400000 diff -2894 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75210040000 orig timestamp 75210042361 graph timestamp 75210040000 diff -2361 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75210520000 orig timestamp 75210523442 graph timestamp 75210520000 diff -3442 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75211160000 orig timestamp 75211163614 graph timestamp 75211160000 diff -3614 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75206640000 orig timestamp 75206640000 graph timestamp 75211640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75211800000 orig timestamp 75211802729 graph timestamp 75211800000 diff -2729 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75212440000 orig timestamp 75212442554 graph timestamp 75212440000 diff -2554 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75212920000 orig timestamp 75212923152 graph timestamp 75212920000 diff -3152 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75213570000 orig timestamp 75213562932 graph timestamp 75213570000 diff 7068 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75214200000 orig timestamp 75214202489 graph timestamp 75214200000 diff -2489 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75214840000 orig timestamp 75214842483 graph timestamp 75214840000 diff -2483 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75215320000 orig timestamp 75215323140 graph timestamp 75215320000 diff -3140 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75215960000 orig timestamp 75215963004 graph timestamp 75215960000 diff -3004 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75216610000 orig timestamp 75216603056 graph timestamp 75216610000 diff 6944 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75211640000 orig timestamp 75211640000 graph timestamp 75216650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75217240000 orig timestamp 75217242595 graph timestamp 75217240000 diff -2595 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75217730000 orig timestamp 75217727995 graph timestamp 75217730000 diff 2005 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75218360000 orig timestamp 75218366779 graph timestamp 75218360000 diff -6779 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75219000000 orig timestamp 75219006751 graph timestamp 75219000000 diff -6751 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75219640000 orig timestamp 75219645535 graph timestamp 75219640000 diff -5535 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75220130000 orig timestamp 75220126273 graph timestamp 75220130000 diff 3727 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75220760000 orig timestamp 75220765874 graph timestamp 75220760000 diff -5874 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75221410000 orig timestamp 75221406559 graph timestamp 75221410000 diff 3441 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75216650000 orig timestamp 75216650000 graph timestamp 75221650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75221880000 orig timestamp 75221886592 graph timestamp 75221880000 diff -6592 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75222520000 orig timestamp 75222526648 graph timestamp 75222520000 diff -6648 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75223160000 orig timestamp 75223166245 graph timestamp 75223160000 diff -6245 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75223800000 orig timestamp 75223806158 graph timestamp 75223800000 diff -6158 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75224280000 orig timestamp 75224287003 graph timestamp 75224280000 diff -7003 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75224930000 orig timestamp 75224926577 graph timestamp 75224930000 diff 3423 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75225560000 orig timestamp 75225565982 graph timestamp 75225560000 diff -5982 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75226200000 orig timestamp 75226205820 graph timestamp 75226200000 diff -5820 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75221650000 orig timestamp 75221650000 graph timestamp 75226640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75226690000 orig timestamp 75226686289 graph timestamp 75226690000 diff 3711 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75227320000 orig timestamp 75227323245 graph timestamp 75227320000 diff -3245 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75227960000 orig timestamp 75227963323 graph timestamp 75227960000 diff -3323 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75228610000 orig timestamp 75228603143 graph timestamp 75228610000 diff 6857 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75229080000 orig timestamp 75229084153 graph timestamp 75229080000 diff -4153 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75229730000 orig timestamp 75229724312 graph timestamp 75229730000 diff 5688 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75230360000 orig timestamp 75230363623 graph timestamp 75230360000 diff -3623 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75231000000 orig timestamp 75231003670 graph timestamp 75231000000 diff -3670 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75231480000 orig timestamp 75231483979 graph timestamp 75231480000 diff -3979 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75226640000 orig timestamp 75226640000 graph timestamp 75231650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75232120000 orig timestamp 75232124210 graph timestamp 75232120000 diff -4210 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75232760000 orig timestamp 75232763543 graph timestamp 75232760000 diff -3543 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75233410000 orig timestamp 75233403015 graph timestamp 75233410000 diff 6985 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75233880000 orig timestamp 75233882793 graph timestamp 75233880000 diff -2793 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75234520000 orig timestamp 75234522430 graph timestamp 75234520000 diff -2430 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75235160000 orig timestamp 75235162923 graph timestamp 75235160000 diff -2923 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75235800000 orig timestamp 75235802895 graph timestamp 75235800000 diff -2895 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75236280000 orig timestamp 75236283771 graph timestamp 75236280000 diff -3771 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75231650000 orig timestamp 75231650000 graph timestamp 75236650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75236920000 orig timestamp 75236923573 graph timestamp 75236920000 diff -3573 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75237570000 orig timestamp 75237561139 graph timestamp 75237570000 diff 8861 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75238200000 orig timestamp 75238201048 graph timestamp 75238200000 diff -1048 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75238690000 orig timestamp 75238681919 graph timestamp 75238690000 diff 8081 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75239330000 orig timestamp 75239321659 graph timestamp 75239330000 diff 8341 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75239960000 orig timestamp 75239960550 graph timestamp 75239960000 diff -550 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75240600000 orig timestamp 75240600321 graph timestamp 75240600000 diff -321 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75241090000 orig timestamp 75241081795 graph timestamp 75241090000 diff 8205 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75236650000 orig timestamp 75236650000 graph timestamp 75241650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75241720000 orig timestamp 75241721521 graph timestamp 75241720000 diff -1521 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75242360000 orig timestamp 75242360587 graph timestamp 75242360000 diff -587 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75242840000 orig timestamp 75242842100 graph timestamp 75242840000 diff -2100 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75243490000 orig timestamp 75243481773 graph timestamp 75243490000 diff 8227 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75244120000 orig timestamp 75244121133 graph timestamp 75244120000 diff -1133 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75244760000 orig timestamp 75244760766 graph timestamp 75244760000 diff -766 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75245240000 orig timestamp 75245241610 graph timestamp 75245240000 diff -1610 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75245880000 orig timestamp 75245880591 graph timestamp 75245880000 diff -591 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75246520000 orig timestamp 75246520812 graph timestamp 75246520000 diff -812 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75241650000 orig timestamp 75241650000 graph timestamp 75246640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75247160000 orig timestamp 75247160329 graph timestamp 75247160000 diff -329 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75247640000 orig timestamp 75247645586 graph timestamp 75247640000 diff -5586 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75248280000 orig timestamp 75248286611 graph timestamp 75248280000 diff -6611 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75248930000 orig timestamp 75248925110 graph timestamp 75248930000 diff 4890 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75249560000 orig timestamp 75249564983 graph timestamp 75249560000 diff -4983 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75250040000 orig timestamp 75250045332 graph timestamp 75250040000 diff -5332 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75250680000 orig timestamp 75250686446 graph timestamp 75250680000 diff -6446 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75251330000 orig timestamp 75251325958 graph timestamp 75251330000 diff 4042 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75246640000 orig timestamp 75246640000 graph timestamp 75251650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75251960000 orig timestamp 75251964908 graph timestamp 75251960000 diff -4908 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75252440000 orig timestamp 75252445271 graph timestamp 75252440000 diff -5271 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75253080000 orig timestamp 75253085653 graph timestamp 75253080000 diff -5653 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75253730000 orig timestamp 75253724892 graph timestamp 75253730000 diff 5108 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75254360000 orig timestamp 75254365868 graph timestamp 75254360000 diff -5868 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75254850000 orig timestamp 75254846855 graph timestamp 75254850000 diff 3145 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75255480000 orig timestamp 75255486398 graph timestamp 75255480000 diff -6398 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75256120000 orig timestamp 75256125745 graph timestamp 75256120000 diff -5745 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75251650000 orig timestamp 75251650000 graph timestamp 75256650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75256760000 orig timestamp 75256765614 graph timestamp 75256760000 diff -5614 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75257240000 orig timestamp 75257246798 graph timestamp 75257240000 diff -6798 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75257880000 orig timestamp 75257880567 graph timestamp 75257880000 diff -567 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75258520000 orig timestamp 75258521350 graph timestamp 75258520000 diff -1350 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75259160000 orig timestamp 75259160412 graph timestamp 75259160000 diff -412 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75259640000 orig timestamp 75259641171 graph timestamp 75259640000 diff -1171 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75260280000 orig timestamp 75260280438 graph timestamp 75260280000 diff -438 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75260920000 orig timestamp 75260920427 graph timestamp 75260920000 diff -427 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75261560000 orig timestamp 75261560881 graph timestamp 75261560000 diff -881 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75256650000 orig timestamp 75256650000 graph timestamp 75261650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75262040000 orig timestamp 75262040993 graph timestamp 75262040000 diff -993 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75262690000 orig timestamp 75262682098 graph timestamp 75262690000 diff 7902 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75263330000 orig timestamp 75263320240 graph timestamp 75263330000 diff 9760 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75263800000 orig timestamp 75263800487 graph timestamp 75263800000 diff -487 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75264440000 orig timestamp 75264440124 graph timestamp 75264440000 diff -124 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75265080000 orig timestamp 75265080291 graph timestamp 75265080000 diff -291 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75265720000 orig timestamp 75265720392 graph timestamp 75265720000 diff -392 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75266200000 orig timestamp 75266202732 graph timestamp 75266200000 diff -2732 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75261650000 orig timestamp 75261650000 graph timestamp 75266650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75266840000 orig timestamp 75266841623 graph timestamp 75266840000 diff -1623 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75267480000 orig timestamp 75267485272 graph timestamp 75267480000 diff -5272 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75268130000 orig timestamp 75268125391 graph timestamp 75268130000 diff 4609 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75268600000 orig timestamp 75268606391 graph timestamp 75268600000 diff -6391 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75269250000 orig timestamp 75269246327 graph timestamp 75269250000 diff 3673 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75269880000 orig timestamp 75269885915 graph timestamp 75269880000 diff -5915 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75270530000 orig timestamp 75270524994 graph timestamp 75270530000 diff 5006 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75271010000 orig timestamp 75271006807 graph timestamp 75271010000 diff 3193 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75271640000 orig timestamp 75271645971 graph timestamp 75271640000 diff -5971 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75266650000 orig timestamp 75266650000 graph timestamp 75271650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75272290000 orig timestamp 75272286991 graph timestamp 75272290000 diff 3009 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75272920000 orig timestamp 75272924057 graph timestamp 75272920000 diff -4057 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75273410000 orig timestamp 75273404719 graph timestamp 75273410000 diff 5281 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75274040000 orig timestamp 75274044668 graph timestamp 75274040000 diff -4668 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75274680000 orig timestamp 75274684363 graph timestamp 75274680000 diff -4363 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75275320000 orig timestamp 75275324232 graph timestamp 75275320000 diff -4232 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75275800000 orig timestamp 75275805358 graph timestamp 75275800000 diff -5358 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75276440000 orig timestamp 75276445102 graph timestamp 75276440000 diff -5102 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75271650000 orig timestamp 75271650000 graph timestamp 75276640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75277080000 orig timestamp 75277084207 graph timestamp 75277080000 diff -4207 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75277720000 orig timestamp 75277722028 graph timestamp 75277720000 diff -2028 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75278210000 orig timestamp 75278203193 graph timestamp 75278210000 diff 6807 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75278850000 orig timestamp 75278842451 graph timestamp 75278850000 diff 7549 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75279480000 orig timestamp 75279482891 graph timestamp 75279480000 diff -2891 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75280120000 orig timestamp 75280122291 graph timestamp 75280120000 diff -2291 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75280600000 orig timestamp 75280602467 graph timestamp 75280600000 diff -2467 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75281240000 orig timestamp 75281243473 graph timestamp 75281240000 diff -3473 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75276640000 orig timestamp 75276640000 graph timestamp 75281650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75281880000 orig timestamp 75281883432 graph timestamp 75281880000 diff -3432 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75282520000 orig timestamp 75282522761 graph timestamp 75282520000 diff -2761 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75283010000 orig timestamp 75283003984 graph timestamp 75283010000 diff 6016 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75283640000 orig timestamp 75283643367 graph timestamp 75283640000 diff -3367 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75284290000 orig timestamp 75284282986 graph timestamp 75284290000 diff 7014 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75284920000 orig timestamp 75284922855 graph timestamp 75284920000 diff -2855 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75285400000 orig timestamp 75285403762 graph timestamp 75285400000 diff -3762 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75286040000 orig timestamp 75286043653 graph timestamp 75286040000 diff -3653 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75281640000 orig timestamp 75281640000 graph timestamp 75286650000 diff 5010000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75286680000 orig timestamp 75286683067 graph timestamp 75286680000 diff -3067 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75287160000 orig timestamp 75287163942 graph timestamp 75287160000 diff -3942 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75287800000 orig timestamp 75287803726 graph timestamp 75287800000 diff -3726 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75288440000 orig timestamp 75288443613 graph timestamp 75288440000 diff -3613 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75289080000 orig timestamp 75289082875 graph timestamp 75289080000 diff -2875 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75289560000 orig timestamp 75289563840 graph timestamp 75289560000 diff -3840 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75290210000 orig timestamp 75290204370 graph timestamp 75290210000 diff 5630 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75290850000 orig timestamp 75290843386 graph timestamp 75290850000 diff 6614 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75291480000 orig timestamp 75291482693 graph timestamp 75291480000 diff -2693 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75286650000 orig timestamp 75286650000 graph timestamp 75291650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75291960000 orig timestamp 75291963760 graph timestamp 75291960000 diff -3760 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75292600000 orig timestamp 75292603478 graph timestamp 75292600000 diff -3478 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75293240000 orig timestamp 75293243034 graph timestamp 75293240000 diff -3034 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75293880000 orig timestamp 75293882662 graph timestamp 75293880000 diff -2662 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75294360000 orig timestamp 75294364238 graph timestamp 75294360000 diff -4238 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75295010000 orig timestamp 75295003384 graph timestamp 75295010000 diff 6616 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75295650000 orig timestamp 75295643289 graph timestamp 75295650000 diff 6711 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75296280000 orig timestamp 75296282605 graph timestamp 75296280000 diff -2605 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75291650000 orig timestamp 75291650000 graph timestamp 75296650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75296760000 orig timestamp 75296763936 graph timestamp 75296760000 diff -3936 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75297410000 orig timestamp 75297402078 graph timestamp 75297410000 diff 7922 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75298040000 orig timestamp 75298041425 graph timestamp 75298040000 diff -1425 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75298680000 orig timestamp 75298681369 graph timestamp 75298680000 diff -1369 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75299160000 orig timestamp 75299162593 graph timestamp 75299160000 diff -2593 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75299810000 orig timestamp 75299802060 graph timestamp 75299810000 diff 7940 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75300440000 orig timestamp 75300441340 graph timestamp 75300440000 diff -1340 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75301090000 orig timestamp 75301081477 graph timestamp 75301090000 diff 8523 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75301570000 orig timestamp 75301562482 graph timestamp 75301570000 diff 7518 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75296650000 orig timestamp 75296650000 graph timestamp 75301650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75302200000 orig timestamp 75302201958 graph timestamp 75302200000 diff -1958 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75302850000 orig timestamp 75302841332 graph timestamp 75302850000 diff 8668 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75303480000 orig timestamp 75303480759 graph timestamp 75303480000 diff -759 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75303970000 orig timestamp 75303962496 graph timestamp 75303970000 diff 7504 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75304600000 orig timestamp 75304601504 graph timestamp 75304600000 diff -1504 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75305240000 orig timestamp 75305241524 graph timestamp 75305240000 diff -1524 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75305880000 orig timestamp 75305881264 graph timestamp 75305880000 diff -1264 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75306360000 orig timestamp 75306362247 graph timestamp 75306360000 diff -2247 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75301650000 orig timestamp 75301650000 graph timestamp 75306650000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75307000000 orig timestamp 75307001428 graph timestamp 75307000000 diff -1428 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75307640000 orig timestamp 75307645050 graph timestamp 75307640000 diff -5050 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75308130000 orig timestamp 75308126376 graph timestamp 75308130000 diff 3624 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75308760000 orig timestamp 75308765589 graph timestamp 75308760000 diff -5589 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75309400000 orig timestamp 75309405021 graph timestamp 75309400000 diff -5021 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75310040000 orig timestamp 75310044881 graph timestamp 75310040000 diff -4881 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75310520000 orig timestamp 75310526323 graph timestamp 75310520000 diff -6323 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75311170000 orig timestamp 75311165764 graph timestamp 75311170000 diff 4236 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75306650000 orig timestamp 75306650000 graph timestamp 75311640000 diff 4990000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75311810000 orig timestamp 75311805758 graph timestamp 75311810000 diff 4242 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75312440000 orig timestamp 75312444632 graph timestamp 75312440000 diff -4632 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75312920000 orig timestamp 75312925811 graph timestamp 75312920000 diff -5811 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75313560000 orig timestamp 75313564725 graph timestamp 75313560000 diff -4725 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75314200000 orig timestamp 75314204638 graph timestamp 75314200000 diff -4638 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75314840000 orig timestamp 75314844101 graph timestamp 75314840000 diff -4101 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75315320000 orig timestamp 75315324959 graph timestamp 75315320000 diff -4959 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75315960000 orig timestamp 75315964025 graph timestamp 75315960000 diff -4025 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75316600000 orig timestamp 75316604041 graph timestamp 75316600000 diff -4041 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type audio size    88200 timestamp 75311640000 orig timestamp 75311640000 graph timestamp 75316640000 diff 5000000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size   614400 timestamp 75317240000 orig timestamp 75317243861 graph timestamp 75317240000 diff -3861 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75317720000 orig timestamp 75317720144 graph timestamp 75317720000 diff -144 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75318370000 orig timestamp 75318361316 graph timestamp 75318370000 diff 8684 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75319000000 orig timestamp 75319000355 graph timestamp 75319000000 diff -355 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75319640000 orig timestamp 75319639327 graph timestamp 75319640000 diff 673 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+dshow passing through packet of type video size   614400 timestamp 75320120000 orig timestamp 75320120587 graph timestamp 75320120000 diff -587 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+Failed to update header with correct duration.
+Failed to update header with correct filesize.
+Invoking FCUnpublish
+Invoking deleteStream
+dshow passing through packet of type audio size    65268 timestamp 75316640000 orig timestamp 75316640000 graph timestamp 75320420000 diff 3780000 麦克风 (Realtek High Definition Audio)
+dshow passing through packet of type video size        0 timestamp 75321740000 orig timestamp 74988810000 graph timestamp 75321740000 diff 332930000 HD WebCam
+real-time buffer [HD WebCam] [video input] too full or near too full (100% of size: 80000000 [rtbufsize parameter])! frame dropped!
+final ratefactor: 25.18

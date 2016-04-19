@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0E9195C6-8832-4B55-9F10-81517B10EF7D}</ProjectGuid>
+    <RootNamespace>KaiboCapture</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)FFMPEG\include;$(SolutionDir)Comm;$(SolutionDir)DShowInc;..\libcurl\include;..\jsoncpp\include;$(SolutionDir)DShowSamples\common;$(SolutionDir)DShowSamples\misc;..\openssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <UndefinePreprocessorDefinitions>
+      </UndefinePreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)FFMPEG\lib;$(SolutionDir)Debug;$(SolutionDir)DShowSamples\baseclasses\Debug;../libcurl/lib;../openssl/lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>strmiids.lib;strmbasd.lib;avcodec.lib;avdevice.lib;avfilter.lib;avformat.lib;avutil.lib;postproc.lib;swresample.lib;swscale.lib;XiaozaiFilters.lib;libcurl.lib;libeay32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OptimizeReferences>false</OptimizeReferences>
+      <EnableCOMDATFolding>false</EnableCOMDATFolding>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0404</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <PostBuildEvent>
+      <Command>editbin /SUBSYSTEM:CONSOLE $(OUTDIR)/KaiboCapture.exe</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)DShowInc;$(SolutionDir)Comm;$(SolutionDir)FFMPEG\include;..\libcurl\include;..\jsoncpp\include;$(SolutionDir)DShowSamples\common;$(SolutionDir)DShowSamples\misc;..\openssl\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <EnableCOMDATFolding>false</EnableCOMDATFolding>
+      <OptimizeReferences>false</OptimizeReferences>
+      <AdditionalDependencies>avcodec.lib;avdevice.lib;avfilter.lib;avformat.lib;avutil.lib;postproc.lib;swresample.lib;swscale.lib;strmiids.lib;strmbasd.lib;XiaozaiFilters.lib;libcurl.lib;libeay32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)Release;$(SolutionDir)FFMPEG\lib;../libcurl/lib;../openssl/lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <DelayLoadDLLs>
+      </DelayLoadDLLs>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0404</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <PostBuildEvent>
+      <Command>editbin /SUBSYSTEM:CONSOLE $(OUTDIR)/KaiboCapture.exe</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Comm\ComHelper.h" />
+    <ClInclude Include="..\Comm\Exception.h" />
+    <ClInclude Include="..\Comm\ID.h" />
+    <ClInclude Include="..\Comm\IniConfig.h" />
+    <ClInclude Include="..\Comm\Thread.h" />
+    <ClInclude Include="..\Comm\TString.h" />
+    <ClInclude Include="..\Comm\Win32_Utils.h" />
+    <ClInclude Include="..\jsoncpp\include\json\autolink.h" />
+    <ClInclude Include="..\jsoncpp\include\json\config.h" />
+    <ClInclude Include="..\jsoncpp\include\json\features.h" />
+    <ClInclude Include="..\jsoncpp\include\json\forwards.h" />
+    <ClInclude Include="..\jsoncpp\include\json\json.h" />
+    <ClInclude Include="..\jsoncpp\include\json\reader.h" />
+    <ClInclude Include="..\jsoncpp\include\json\value.h" />
+    <ClInclude Include="..\jsoncpp\include\json\writer.h" />
+    <ClInclude Include="..\jsoncpp\json\json_batchallocator.h" />
+    <ClInclude Include="..\jsoncpp\json\json_tool.h" />
+    <ClInclude Include="AudioVolume.h" />
+    <ClInclude Include="GraphBuilder.h" />
+    <ClInclude Include="KaiboCapture.h" />
+    <ClInclude Include="KaiboCaptureDlg.h" />
+    <ClInclude Include="LoginDialog.h" />
+    <ClInclude Include="MyDef.h" />
+    <ClInclude Include="PreviewDlg.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="TabdlgAbout.h" />
+    <ClInclude Include="TabdlgDevice.h" />
+    <ClInclude Include="TabdlgInfo.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="XzConfig.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Comm\Exception.cpp" />
+    <ClCompile Include="..\Comm\ID.cpp" />
+    <ClCompile Include="..\Comm\IniConfig.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="..\Comm\Thread.cpp" />
+    <ClCompile Include="..\Comm\TString.cpp" />
+    <ClCompile Include="..\Comm\Win32_Utils.cpp" />
+    <ClCompile Include="..\jsoncpp\json\json_reader.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp\json\json_value.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="..\jsoncpp\json\json_writer.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="AudioVolume.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="GraphBuilder.cpp" />
+    <ClCompile Include="KaiboCapture.cpp" />
+    <ClCompile Include="KaiboCaptureDlg.cpp" />
+    <ClCompile Include="LoginDialog.cpp" />
+    <ClCompile Include="PreviewDlg.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TabdlgAbout.cpp" />
+    <ClCompile Include="TabdlgDevice.cpp" />
+    <ClCompile Include="TabdlgInfo.cpp" />
+    <ClCompile Include="XzConfig.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KaiboCapture.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\jsoncpp\json\json_internalarray.inl" />
+    <None Include="..\jsoncpp\json\json_internalmap.inl" />
+    <None Include="..\jsoncpp\json\json_valueiterator.inl" />
+    <None Include="..\jsoncpp\json\sconscript" />
+    <None Include="res\KaiboCapture.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\KaiboCapture.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="KaiboCapture.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

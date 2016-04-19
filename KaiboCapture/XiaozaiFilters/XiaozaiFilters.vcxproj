@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{319075CB-8BD0-4E26-A1D0-68965BA81F07}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>XiaozaiFilters</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;XIAOZAIFILTERS_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)FFMPEG\include;$(SolutionDir)DShowInc;$(SolutionDir)Comm;$(SolutionDir)DShowSamples\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)FFMPEG\lib;$(SolutionDir)DShowSamples\baseclasses\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>avcodec.lib;avdevice.lib;avfilter.lib;avformat.lib;avutil.lib;postproc.lib;swresample.lib;swscale.lib;strmiids.lib;strmbasd.lib;winmm.lib;wmvcore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;XIAOZAIFILTERS_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalOptions>/I"D:\XiaoZai\Projects\XiaozaiCapture\FFMPEG\include" /I"D:\XiaoZai\Projects\XiaozaiCapture\DShowInc" /I"D:\XiaoZai\Projects\XiaozaiCapture\Comm" /I"D:\XiaoZai\Projects\XiaozaiCapture\DShowSamples\common" %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>$(SolutionDir)DShowSamples\common;$(SolutionDir)Comm;$(SolutionDir)DShowInc;$(SolutionDir)FFMPEG\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>false</EnableCOMDATFolding>
+      <OptimizeReferences>false</OptimizeReferences>
+      <AdditionalDependencies>avcodec.lib;avdevice.lib;avfilter.lib;avformat.lib;avutil.lib;postproc.lib;swresample.lib;swscale.lib;strmiids.lib;strmbase.lib;winmm.lib;wmvcore.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(SolutionDir)FFMPEG\lib;$(SolutionDir)DShowSamples\baseclasses\Release</AdditionalLibraryDirectories>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <IgnoreSpecificDefaultLibraries>libcmt.lib</IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Comm\CIOBuffer.h" />
+    <ClInclude Include="..\Comm\ComHelper.h" />
+    <ClInclude Include="..\Comm\CRefCountObject.h" />
+    <ClInclude Include="..\Comm\Exception.h" />
+    <ClInclude Include="..\Comm\HeapAllocator.h" />
+    <ClInclude Include="..\Comm\ID.h" />
+    <ClInclude Include="..\Comm\IIOBuffer.h" />
+    <ClInclude Include="..\Comm\IRefCount.h" />
+    <ClInclude Include="..\Comm\Thread.h" />
+    <ClInclude Include="..\Comm\TString.h" />
+    <ClInclude Include="..\Comm\Win32_Utils.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="FFMpegDecoder.h" />
+    <ClInclude Include="FFMpegEncoder.h" />
+    <ClInclude Include="FFMpegFilter.h" />
+    <ClInclude Include="FFMpegOutputWapper.h" />
+    <ClInclude Include="FilterGuids.h" />
+    <ClInclude Include="ISnapshotProvider.h" />
+    <ClInclude Include="ISuperSettings.h" />
+    <ClInclude Include="previewLocalController.h" />
+    <ClInclude Include="PreviewLocalFilters.h" />
+    <ClInclude Include="previewRtmpController.h" />
+    <ClInclude Include="PreviewRtmpFilters.h" />
+    <ClInclude Include="SampleQueue.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="XiaozaiAVController.h" />
+    <ClInclude Include="XiaozaiFilters.h" />
+    <ClInclude Include="FFMpegInputWapper.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Comm\CIOBuffer.cpp" />
+    <ClCompile Include="..\Comm\CRefCountObject.cpp" />
+    <ClCompile Include="..\Comm\Exception.cpp" />
+    <ClCompile Include="..\Comm\HeapAllocator.cpp" />
+    <ClCompile Include="..\Comm\ID.cpp" />
+    <ClCompile Include="..\Comm\Thread.cpp" />
+    <ClCompile Include="..\Comm\TString.cpp" />
+    <ClCompile Include="..\Comm\Win32_Utils.cpp" />
+    <ClCompile Include="FFMpegDecoder.cpp" />
+    <ClCompile Include="FFMpegEncoder.cpp" />
+    <ClCompile Include="FFMpegFilter.cpp" />
+    <ClCompile Include="FFMpegOutputWapper.cpp" />
+    <ClCompile Include="InitUUIDs.cpp" />
+    <ClCompile Include="previewLocalController.cpp" />
+    <ClCompile Include="PreviewLocalFilters.cpp" />
+    <ClCompile Include="previewRtmpController.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="PreviewRtmpFilters.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="SampleQueue.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="XiaozaiAVController.cpp" />
+    <ClCompile Include="XiaozaiFilters.cpp" />
+    <ClCompile Include="FFMpegInputWapper.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
